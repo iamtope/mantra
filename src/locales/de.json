@@ -1,0 +1,143 @@
+{
+  "stats": {
+    "currentVisitors": "Jetzt Online: {liveVisits}",
+    "totalVisits": "Besucher: {totalVisits}",
+    "potential": "Austehende Subscriber: {pendingSubscribes}",
+    "nextReward": "Noch {subscriber} Anmeldungen bis zu nächsten Belohnung",
+    "countdown": "Du hast noch {countdown}",
+    "inviteFriends": "Mehr Freunde einladen."
+  },
+
+  "cookie": {
+    "button": "Akzeptieren",
+    "p1": "Warum",
+    "p2": "Das ist ein {link}",
+    "linkText": "Datenschutz"
+  },
+  "footer": {
+    "imprint": "Impressum",
+    "privacy": "Datenschutz",
+    "tos": "AGB",
+    "copyright": "© Mantraschmuck®"
+  },
+  "friendsRequired": "Freunde benötigt:",
+  "home": {
+    "title": "Anmelden und Mantra Armband sichern",
+    "p1": "Hebe dich von der Masse ab und zeige allen an was du glaubst.",
+    "p2": "Sei die erste Person die davon weiss und abonniere unseren Newsletter!\n Du profitierst außerdem von unserem Eröffnungsrabatt und kannst demnächst bei uns vorbestellen, damit du auch als Erstes deine Message in die Welt tragen kannst.",
+    "date": "Wir gehen am 14. Februar 2019 für dich mit unserem Shop online!",
+    "openTime": "Bis dahin bleiben dir noch:",
+    "countdownLabels": {
+      "days": "Tage",
+      "hours": "Stunden",
+      "minutes": "Minuten"
+    },
+
+    "steps": {
+      "step1": {
+        "title": "Anmelden und Mantra Armband sichern!",
+        "titleWithUser": "{name} hat dich eingeladen",
+        "p1": "Wir wollen dir eine Freude bereiten und dir unsere schlichten und eleganten Mantra Armbänder schenken. Trage ihn jeden Tag für deine tägliche Inspiration.",
+        "p2": "Jetzt einfach Teil werden klicken und teile uns deinen Vornamen und deine E-Mail mit. Deine Chance zu gewinnen, indem du deinen einzigartigen Link mit deinen Freunden über Facebook, WhatsApp, E-Mail, etc. teilst.",
+        "button": "Teil werden"
+      },
+      "step2": {
+        "firstName": {
+          "title": "Wie dürfen wir dich nennen?",
+          "text": "Gerne würden wir dich persönlich ansprechen.",
+          "inputPlaceholder": "Vorname",
+          "hello": "Schön, dass du dabei bist {name}!",
+          "welcomeBack": "Willkommen zurück {name}!",
+          "buttons": {
+            "next": "Weiter"
+          }
+        },
+        "email": {
+          "askForEmail": {
+            "p1": "Jetzt brauchen wir nur noch deine E-Mail und es kann los gehen!",
+            "p2": "Wir informieren dich über deinen Gewinn, Neuerscheinungen und spannende Newsletter.",
+            "privacy": "Ja, senden Sie mir den personalisierten MantraSchmuck Newsletter zu. Ich bin ausdrücklich damit einverstanden, den Newsletter zu erhalten und weiß, dass ich mich jederzeit problemlos wieder abmelden kann."
+          },
+          "inputPlaceholder": "Deine Email",
+          "subscribe": "Jetzt Teil werden"
+        }
+      }
+    },
+    "alreadyRegistered": {
+      "text": "Sie sind schon Registriert",
+      "viewRewards": "Rewards ansehen",
+      "title": "home.alreadyRegistered.title"
+    }
+  },
+
+  "refer": {
+    "infoOverLink": "Erhalte schneller dein kostenloses Produkt \n und teile deinen Link über die sozialen Netzwerke!",
+    "info": "Lass deine Freunde nicht im Stich. Erzähle Ihnen davon und erhalte ein kostenloses Produkt von uns!",
+    "title": "Vielen Dank für deine Anmeldung!",
+    "friends": "Keine Abonnenten | Ein Abonnent | {count} Abonnenten",
+    "progress": "Dein Fortschritt",
+    "getMoreFriends": "Lade mehr Freunde ein um\n das nächste Level zu erreichen",
+    "notSubscribed": {
+      "title": "Bitte bestätige deine Email",
+      "text": "Um den vollen funktionens bla",
+      "linkText": "hier"
+    },
+    "refs": {
+      "have": "Du hast bisher {counter} Besucher",
+      "info": "Animiere deine Freunde!"
+    },
+    "thankYouModal": {
+      "title": "Vielen Dank. nur noch ein Schritt"
+    },
+
+    "social": {
+      "quote": "Social quote haben nicht alle",
+      "title": "Social Titel",
+      "description": "Description"
+    },
+    "successResub": {
+      "title": "Erfolg",
+      "text": " bitte bestätige Deine Email"
+    },
+    "linkCopied": {
+      "succces": "Link erfolgreich kopiert",
+      "failed": "Link konnte nicht kopiert werden"
+    }
+  },
+
+  "status": {
+    "subscribe": {
+      "title": "{name} hat Subscribed",
+      "info": "Geiler {name} {name} scheiss"
+    },
+    "pending": {
+      "title": "{name} muss noch bestätigen",
+      "info": "Hilf {name} ihm"
+    },
+    "unsubscribe": {
+      "title": "{name} hat uns leider verlassen",
+      "info": "Hilf {name} ihm"
+    },
+    "firstName": {
+      "title": "{name} zeigt Interesse",
+      "info": "Noch keine Email {name}"
+    },
+    "invitedByEmail": {
+      "title": "{email} wurde eingeladen",
+      "info": "Noch keine Email für {email}"
+    }
+  },
+  "modals": {
+    "subscribe": {
+      "title": "Du bist schon dabei!",
+      "text": "Du hast dich bereits für unseren Newsletter angemeldet. Gerne schicken wir dir deinen privaten Link per Email zu. Bitte klicke dafür auf den unten stehenden Button.",
+      "emailInfo": "Jetzt Reset für {email} anfordern.",
+      "success": "Vielen dank du erhälst in kürze eine Email."
+    },
+    "pending": {
+      "title": "Du hast deine Email noch nicht bestätigt.",
+      "closeButton": "Ok, verstanden.",
+      "text": "Anmeldungs email wurde erneut versendet. Bitte bestätigen."
+    }
+  }
+}

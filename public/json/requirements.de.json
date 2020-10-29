@@ -1,0 +1,22 @@
+[
+  {
+    "requires": 3,
+    "info": "Guschein über 5 Euro",
+    "image": "https://picsum.photos/150/150"
+  },
+  {
+    "requires": 6,
+    "info": "Lebenlangen Rabatt von 30%",
+    "image": "https://picsum.photos/150/150"
+  },
+  {
+    "requires": 10,
+    "info": "Dein Mantra Schmuckstücke",
+    "image": "https://picsum.photos/150/150"
+  },
+  {
+    "requires": 25,
+    "info": "Ein Jahres Abonnement",
+    "image": "https://picsum.photos/150/150"
+  }
+]
